@@ -23,7 +23,7 @@ cd AGCInternCodingAssessment
 
 ### 2. Install Required Dependencies
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Run the Application
