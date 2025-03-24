@@ -12,9 +12,6 @@ It provides RESTful API endpoints for retrieval of data.
 
 ## Pre-requisites
 - **Python**: 3.8 or higher
-- **Hardware**: 
-- Recommended: CPU with 8GB RAM or GPU with 4GB VRAM for reasonable performance.
-- Minimum: CPU with 4GB RAM (slower but functional).
 
 ## Set-Up Instructions
 
@@ -42,7 +39,8 @@ Afterwards, the server will run on `http://localhost:8000/`.
 http://localhost:8000/docs
 ```
 
-All of the API Endpoints can be tested here.
+All of the API Endpoints can be tested on the Swagger UI. 
+The API Documentation can be viewed on Swagger UI or as shown below here as well.
 
 ## API Documentation
 
