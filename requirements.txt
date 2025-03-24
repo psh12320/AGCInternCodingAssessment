@@ -1,0 +1,8 @@
+chromadb
+fastapi
+uvicorn
+sentence-transformers
+pdfplumber
+python-multipart
+pydantic
+nltk
